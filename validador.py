@@ -5,7 +5,7 @@ a=int(input('digite um valorpara o lado do triângulo'))
 b=int(input('digite um valorpara o lado do triângulo'))
 c=int(input('digite um valorpara o lado do triângulo'))
 
-#processamento e saída dfhsdghsgh
+#processamento e saída dfhsd
 
 if a + b < c or b + c < a or c + b < a:
     print('não é uma triangulo')
